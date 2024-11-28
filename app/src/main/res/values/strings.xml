@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="add_todo">Add TODO</string>
+    <string name="search_todos">Search TODOs</string>
+    <string name="enter_todo">Enter TODO</string>
+    <string name="error">Error</string>
+    <string name="empty_message">Press the + button to add a TODO item</string>
+    <string name="auto_hide">Auto Hide or Extend FAB</string>
+    <string name="ok">OK</string>
+    <string name="retry">Retry</string>
+    <string name="auto_hide_or_extend_bar">Auto Hide or Extend Bar</string>
+    <string name="back">Back</string>
+    <string name="failed_to_add_todo">Failed to add TODO</string>
+
+</resources>
