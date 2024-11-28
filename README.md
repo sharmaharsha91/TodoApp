@@ -1,5 +1,4 @@
-TodoApp
-Introduction
+TodoApp:
 TodoApp is a simple, user-friendly Android application designed to help users organize their tasks efficiently. With features like task addition, search. the app aims to simplify task management and boost productivity.
 
 This application is built using modern Android development practices, incorporating technologies like Kotlin, Multi module architecture, and Room database for robust and scalable development.
