@@ -7,7 +7,7 @@ Features
 Add Tasks: Create tasks with a title.
 Persistent Storage: All tasks are saved using Room, ensuring data remains intact even after app restarts.
 Modern UI: Intuitive and clean interface designed with Material Design principles.
-Screenshots
+
 
 
 Tech Stack
